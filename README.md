@@ -37,12 +37,17 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
+**Game Win**
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://github.com/cpark50/simple-light-sound-game/blob/main/lightsound.gif)
+
+**Game Lose**
+
+![](https://github.com/cpark50/simple-light-sound-game/blob/main/lightsound1.gif)
+
+**Different Pattern generating**
+
+![](https://github.com/cpark50/simple-light-sound-game/blob/main/lightsound2.gif)
 
 ## Reflection Questions
 
