@@ -4,9 +4,9 @@
 
 Submitted by: **Cindy Park**
 
-Time spent: **6** hours spent in total
+Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://cottony-pretty-seismosaurus.glitch.me/
 
 ## Required Functionality
 
@@ -53,19 +53,20 @@ The following **additional** features are implemented:
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
    
-   I
+   I used online resources called W3Schools and MDN. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    
-   I was still new to CSS, HTML and JavaScript so this pre-work assessment was an accelerated learning process to gain brief knowledge of Web development. I'm still self-learning Web development and I was just introduced to CSS in my self-taught schedule. 
+   I am still new to CSS, HTML and JavaScript because I did not have any experience in Web development. Thus, this pre-work assessment was an accelerated learning process to gain knowledge of Web development. Speaking of the technical side, one of the challenges was understanding the ecosystem of web languages. From doing the pre-work, I was able to explore and learn how HTML, CSS and JavaScript are interconnected. Also, using Glitch platform made the process easy because the interface was beginner-friendly and made the building and exporting project simple.
+In terms of completing the pre-work, I had time management issues. I submitted the application a month ago but I haven’t been able to make any progress on the pre-work assessment until the last week of the deadline because of finals and side projects. Attending a quarter system school sometimes makes scheduling and balancing workloads difficult, especially towards the end of the quarter. However, I was able to complete the pre-work since the walkthrough for the pre-work on the web page was elaborate and easy to understand and also I felt supported because there was plenty of help available via the pre-work slack. I had a lot of burden because of the limited time but as soon as jumped into the pre-work assessment, I realized I was overthinking. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
    
-   I still need to get familiarized with how all three languages are connected to each other and why does the developer's tool from Chrome shows the console log but not the log feature from Glitch. 
+      After completing the submission, I was wondering why they chose or created JavaScript because from what I had to write for this assessment, the language looked similar to other object-oriented programming languages. What would be the core difference in JavaScript and perhaps Java that JavaScript is heavily used in web development. Is CSS or HTML frequently updated with new feature or values such as fonts and colors? I haven’t learned any framework yet but I am curious to learn what is a framework and how important or why they’re used in web development and why the trend changes over years in terms of popularity of frameworks.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
    
-   hello
+   Although I did make changes to my project different from what the tutorial showed, I wish to make more user interactive features. I would perhaps make buttons to float or add motions to the button. Adding more settings for users such as being able to set number of stages, difficulty level that adjusts speed, number of patterns or furthermore add motions to the buttons. I would also want to look on how to refactor the randomizing pattern function because it is calling the randomizing function every time user starts the game. I would also want to check if it is better to have pre-existing sets of patterns.!
 
 ## Interview Recording URL Link
 
