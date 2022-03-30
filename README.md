@@ -4,7 +4,7 @@
 
 Submitted by: **Cindy Park**
 
-Time spent: **10** hours spent in total
+Time spent: **9** hours spent in total
 
 Link to project: https://cottony-pretty-seismosaurus.glitch.me/
 
