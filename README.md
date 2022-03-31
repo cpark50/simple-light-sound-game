@@ -70,7 +70,7 @@ In terms of completing the pre-work, I had time management issues. I submitted t
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1khQl5OrhidE8Dhzp6mU46tyanKzkYoPz/view?usp=sharing)
 
 ## License
 
